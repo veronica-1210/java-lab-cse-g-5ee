@@ -27,7 +27,7 @@ class DisplayDefaultPrimitiveType{
 ```
 
 ## Output :
-![ output for week1](defaultprimitive.png)
+![ output for week1](default primitive .png.jpeg)
 
 ## Exp1b) Title: Calculate the roots of a Quadratic equation
 ## Source Code:
