@@ -65,7 +65,7 @@ class quadraticeq {
 ```
 ## OUTPUT:
 ### CASE-1 (D>0)
-![case 1 study](quad1.png.jpng)
+![case 1 study](quad1.png.jpeg)
 ### CASE-2 (D==0)
 ![case study 2](quad2.png)
 ### CASE-3 (D<0)
